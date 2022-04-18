@@ -1,0 +1,4 @@
+test = '2129108100:AAH_atAWSLmWPCYAhR1NopPQhJzEwk7N8Gc'
+real = '5223377564:AAF_QQzyd9Y_BnkX3Vb_54R4JhmwNGKfuCQ'
+DATABASE_NAME = 'd7acfhm3rlibk9'
+TOKEN = test
